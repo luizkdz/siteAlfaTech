@@ -1,0 +1,245 @@
+        .cabecalho{
+            display:flex;
+            justify-content:center;
+            align-items: center;
+            
+        }
+        .cabecalho ul{
+            display:flex;
+            list-style-type: none;
+            padding:0;
+        }
+        .cabecalho li {
+            margin-right: 20px;
+        }
+        .cabecalho a{
+            text-decoration: none;
+            font-size: 18px;
+            color:#233032;
+        }
+
+        body{
+            font-family:'Poppins', sans-serif;
+            margin:0;
+        }
+        .fotoIcone{
+            width:80px;
+        }
+        .logoFrase {
+            display: flex;
+            align-items: center;
+            margin-right:300px;
+            margin-top:20px;
+        }
+        .texto-preto{
+            font-size:32px;
+            color:#000000;
+        }
+        .banner {
+            background-color:#2f86d6;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .texto-banner {
+            width: 30%;
+            text-align: left;
+        }
+        
+        .foto-banner {
+            width: 50%;
+            max-width: 500px; /* Adjust the max-width as needed */
+            margin-left: 20px; /* Adjust the margin as needed */
+        }
+    .banner ul{
+        width:300px;
+        justify-content: center;
+        display:flex;
+        list-style-type:none;
+    }
+    .banner li{
+        margin-right:20px;
+    }
+    .footerBanner{
+        background-color:#233032;
+        text-align:center;
+        padding-top:20px;
+    }
+   
+    .hospedagemTabela{
+    display:flex;
+    justify-content: center;
+    margin-right: 50px;
+    }
+
+    .caixaLinkTabelaPreços{
+        padding:5px;
+        border-radius:5px;
+        background-color:#2f86d6;
+        border:2px solid #2f86d6;
+        margin-left:100px;
+    }
+
+    .servicosHospedagem{
+        text-align:center;
+        
+    }
+
+    .servicosHospedagem li{
+        list-style-type: none;
+    }
+
+
+    .iconeEngrenagem{
+        width:150px;
+    }
+
+    .lista2{
+        display:flex;
+    }
+    .container{
+        text-align:center;
+        display:flex;
+        justify-content: center;
+    }
+
+    .card{
+        width:200px;
+        margin:50px;
+    }
+    .iconesContainer{
+        width:150px;
+    }
+    .tabelaPlanos {
+        padding:10px;
+        background-color: #f1f3f7;
+        text-align: center;
+    }
+    
+    .centerTable {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .fotoTabela{
+        width:150px;
+    }
+    caption{
+        font-weight: bold;
+        margin-bottom:20px;
+    }
+    
+
+    .footerTabelaPlanos{
+        justify-content: center;
+        display:flex;
+        margin-left:auto;
+        margin-right:auto;
+    }
+
+    .rodape{
+        text-align:center;
+    }
+    .segundoRodape{
+        text-align:center;
+    }
+    .paragrafoBanner{
+        color:#fff
+    }
+    .texto-banner h1, .texto-banner p{
+        color:#fff
+    }
+    .footerBanner h2{
+        font-size:24px;
+        color:#fff;
+    }
+
+    .footerBanner p{
+        font-size:16px;
+        color:#fff;
+    }
+    .fogueteLink{
+        width:25px;
+    }
+    .servicosHospedagem h1{
+        font-size:32px;
+        color:#000000;
+
+    }
+    .texto-azul{
+        font-size:32px;
+        color:#2f86d6;
+    }
+    .subtitulo{
+        font-weight: bold;
+        font-size:18px;
+        color:#000000;
+    }
+
+    .card p{
+        font-size:16px;
+        color:#000000;
+    }
+    caption{
+        font-size:32px;
+        color:#000000;
+    }
+
+    table{
+        margin-bottom:20px;
+        box-shadow: 5px 5px 8px 8px #2f86d6;
+    }
+
+    .subtituloTabela{
+        color:#a89f9f;
+        font-size:13px;
+    }
+    .background-tabela:nth-child(odd) {
+        font-size:16px;
+        background-color: #f2f2f2;
+    }
+    .background-tabela:nth-child(even) {
+        font-size:16px;
+        background-color: #e6e6e6;
+    }
+    .footerTabelaPlanos{
+        background-color:#2f86d6;
+    }
+
+    .footerTabelaPlanos h2{
+        font-size:24px;
+        color:#fff;
+    }
+    .caixa2LinkTabelaPreços{
+        color:#fff;
+        padding:5px;
+        border-radius:5px;
+        background-color: #233032;
+        border:2px solid #2f86d6;
+        margin-left:30px;
+    }
+    .rodape{
+        background-color: #fff;
+    }
+
+    .rodape p{
+        font-size:16px;
+        color:#000000;
+    }
+
+    .segundoRodape{
+
+        background-color: #f1f3f7;
+    }
+
+    .segundoRodape p{
+        font-size:16px;
+
+    }
+    .nomeDesenvolvedor{
+        color: #2f86d6;
+    }
+    th{
+        font-size:18px;
+        color:#000000;
+    }
