@@ -1,0 +1,87 @@
+.iconeLogo{
+    width:80px;
+}
+.cabecalho{
+    background-color:#2f86d6;
+    display:flex;
+    justify-content: center;
+
+}
+.cabecalho a {
+    color:#233032;
+    text-decoration: none;
+    font-size: 18px;
+}
+.cabecalho ul{
+    margin-left:100px;
+    display:flex;
+}
+.cabecalho li{
+    color:#fff;
+    list-style-type: none;
+    margin:10px;
+}
+.logoFrase{
+    margin-right:100px;
+    display:flex;
+    align-items: center;
+    
+}
+.logoFrase span{
+    color: #000000;
+    line-height: 40px;
+}
+body{
+    margin:0;
+}
+
+.tabelaPrecos{
+    text-align:center;
+}
+.centerTable {
+    margin-left: auto;
+    margin-right: auto;
+}
+.rodape{
+    text-align: center;
+}
+.segundoRodape{
+    background-color:#fff;
+    text-align: center;
+}
+.background-cinza-tabela{
+    background-color:#f1f3f7;
+}
+
+.circle{
+    height:20px;
+    width:20px;
+    border-radius:20px;
+    background-color:#2f86d6;
+    align-items: center;
+    margin:auto;
+}
+
+.rodape{
+    
+    background-color:#2f86d6;
+}
+
+.logoFrase2{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.logoFrase2 span{
+    line-height:40px;
+}
+.nomeDesenvolvedor{
+    color:#2f86d6;
+}
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
